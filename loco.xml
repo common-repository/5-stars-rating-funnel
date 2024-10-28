@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bundle name="5 stars rating funnel WordPress Plugin | RRatingg">
+    <domain name="5-stars-rating-funnel">
+        <project name="5 stars rating funnel WordPress Plugin | RRatingg" slug="5-stars-rating-funnel">
+            <source>
+                <directory>.</directory>
+                <exclude>
+                    <directory>freemius</directory>
+                </exclude>
+            </source>
+            <target>
+                <directory>languages</directory>
+            </target>
+            <template>
+                <file>languages/5-stars-rating-funnel.pot</file>
+            </template>
+        </project>
+    </domain>
+</bundle>

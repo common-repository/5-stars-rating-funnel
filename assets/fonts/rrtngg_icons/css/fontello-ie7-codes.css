@@ -1,0 +1,21 @@
+
+.icon-rrtngg_like_unlike_face_1_like { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
+.icon-rrtngg_like_unlike_thumbs_1_like { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe801;&nbsp;'); }
+.icon-rrtngg_like_unlike_face_1_unlike { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe802;&nbsp;'); }
+.icon-rrtngg_like_unlike_thumbs_1_unlike { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe803;&nbsp;'); }
+.icon-rrtngg-star-fill { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe804;&nbsp;'); }
+.icon-rrtngg-star-empty { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe805;&nbsp;'); }
+.icon-rrtngg_like_unlike_check_1_like { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe806;&nbsp;'); }
+.icon-rrtngg_like_unlike_check_1_unlike { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe807;&nbsp;'); }
+.icon-rrtngg_like_unlike_weather_1_like { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80c;&nbsp;'); }
+.icon-rrtngg_like_unlike_face_3_like { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe814;&nbsp;'); }
+.icon-rrtngg_like_unlike_face_3_unlike { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe815;&nbsp;'); }
+.icon-rrtngg_like_unlike_heart_2_like { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe816;&nbsp;'); }
+.icon-rrtngg_like_unlike_heart_1_like { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe817;&nbsp;'); }
+.icon-rrtngg_like_unlike_heart_2_unlike { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe818;&nbsp;'); }
+.icon-rrtngg_like_unlike_weather_1_unlike { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81a;&nbsp;'); }
+.icon-rrtngg_like_unlike_heart_1_unlike { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf028;&nbsp;'); }
+.icon-rrtngg_like_unlike_face_2_like { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf118;&nbsp;'); }
+.icon-rrtngg_like_unlike_face_2_unlike { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf119;&nbsp;'); }
+.icon-rrtngg_like_unlike_thumbs_2_like { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf164;&nbsp;'); }
+.icon-rrtngg_like_unlike_thumbs_2_unlike { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf165;&nbsp;'); }

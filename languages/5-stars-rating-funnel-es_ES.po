@@ -1,0 +1,1784 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 5 stars rating funnel WordPress Plugin | RRatingg\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-06 23:55+0000\n"
+"PO-Revision-Date: 2024-04-14 20:12+0000\n"
+"Last-Translator: Tobias support@saleswonder.biz\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.5-RC4-57894\n"
+"X-Domain: 5-stars-rating-funnel"
+
+#: includes/functions.php:199
+#, php-format
+msgid "%1$sTry 7 days trial%2$s"
+msgstr "%1$sPrueba 7 días%2$s"
+
+#: includes/functions.php:173
+#, php-format
+msgid "%1$sTry trial%2$s"
+msgstr "%1$sPrueba%2$s"
+
+#: includes/functions.php:166 includes/functions.php:192
+#, php-format
+msgid "%1$sUpgrade now%2$s"
+msgstr "%1$sActualizar ahora%2$s"
+
+#: includes/RRTNGG_Notices.php:64
+#, php-format
+msgid ""
+"%1$sUpgrade now%2$s to unlock all premium features and unlimited feedback "
+"(clicks on a referral button)."
+msgstr ""
+"%1$sUpgrade now%2$s para desbloquear todas las funciones premium y "
+"comentarios ilimitados (clics en un botón de recomendación)."
+
+#: includes/RRTNGG_Services_Manager.php:130
+msgid "1 day minimal"
+msgstr "1 día mínimo"
+
+#: includes/RRTNGG_Leads_Model.php:187
+msgid "123456-XXX"
+msgstr "123456-XXX"
+
+#: includes/RRTNGG_Funnel_CPT.php:392
+msgid "5 and 4 stars"
+msgstr "5 y 4 estrellas"
+
+#. Name of the plugin
+msgid ""
+"5 star review funnel for Google, Trustpilot, ProvenExpert and more | RRatingg"
+msgstr ""
+"embudo de reseñas de 5 estrellas para Google, Trustpilot, ProvenExpert y más "
+"| RRatingg"
+
+#: includes/RRTNGG_Funnel_CPT.php:391
+msgid "5 stars only"
+msgstr "sólo 5 estrellas"
+
+#: includes/RRTNGG_Admin.php:171
+msgid "5 stars rating funnel Settings"
+msgstr "embudo de valoración de 5 estrellas Ajustes"
+
+#: templates/emails/default/positive_rating_reminder.php:30
+msgid ">> Rate on Facebook <<"
+msgstr ">> Valora en Facebook <<"
+
+#: templates/emails/default/positive_rating_reminder.php:22
+msgid ">> Rate on Google <<"
+msgstr ">> Valora en Google <<"
+
+#: includes/RRTNGG_Services_Manager.php:73
+msgid ">> Rate us on Facebook <<"
+msgstr ">> Valóranos en Facebook <<"
+
+#: includes/RRTNGG_Services_Manager.php:24
+msgid ">> Rate us on Google <<"
+msgstr ">> Valóranos en Google <<"
+
+#: includes/RRTNGG_Services_Manager.php:50
+msgid ">> Rate us on TrustedShops <<"
+msgstr ">> Valóranos en TrustedShops <<"
+
+#: includes/RRTNGG_Services_Manager.php:98
+msgid ">> Rate us on TrustPilot <<"
+msgstr ">> Valóranos en TrustPilot <<"
+
+#: templates/emails/default/positive_rating_reminder.php:18
+msgid ""
+"A while ago, we created a Google My business entry. We would be very happy, "
+"if you could rate our company there and describe your experiences."
+msgstr ""
+"Hace algún tiempo creamos una entrada en Google My business. Estaríamos muy "
+"contentos, si usted podría calificar nuestra empresa allí y describir sus "
+"experiencias."
+
+#: includes/RRTNGG_Services_Manager.php:75
+msgid "Account is needed"
+msgstr "Se necesita una cuenta"
+
+#: includes/RRTNGG_Funnel_CPT.php:730
+msgid "Active"
+msgstr "Activo"
+
+#: templates/admin/partials/settings-general.php:421
+msgid "Add header key"
+msgstr "Añadir clave de cabecera"
+
+#: templates/admin/partials/settings-general.php:324
+msgid "Add Lead"
+msgstr "Añadir plomo"
+
+#: templates/admin/partials/settings-general.php:330
+msgid "Add Lead & Send Invite"
+msgstr "Añadir cliente potencial y enviar invitación"
+
+#: includes/RRTNGG_Funnel_CPT.php:25
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: includes/RRTNGG_Funnel_CPT.php:19
+msgctxt "Add New on Toolbar"
+msgid "Rating Funnel"
+msgstr "Embudo de valoración"
+
+#: includes/RRTNGG_Funnel_CPT.php:24
+msgid "Add New Rating Funnel"
+msgstr "Añadir nuevo embudo de valoración"
+
+#: includes/RRTNGG_Ajax.php:111
+msgid "Add short description, please!"
+msgstr "Añada una breve descripción, por favor"
+
+#: templates/admin/partials/settings-general.php:277
+msgid "Add single lead"
+msgstr "Añadir un solo cable"
+
+#: includes/RRTNGG_Services_Manager.php:92
+msgid "Additional Custom Link"
+msgstr "Enlace personalizado adicional"
+
+#: includes/RRTNGG_Funnel_CPT.php:18
+msgctxt "Admin Menu text"
+msgid "RRatingg"
+msgstr "RRatingg"
+
+#: includes/RRTNGG_Funnel_CPT.php:23
+msgid "All Rating Funnels"
+msgstr "Todos los embudos de valoración"
+
+#: templates/admin/partials/settings-general.php:401
+msgid ""
+"Are you sure you want to delete this API Key, this could not be undone. All "
+"apps which are using this key could not use your API any more."
+msgstr ""
+"¿Estás seguro de que desea eliminar esta clave de API, esto no se puede "
+"deshacer. Todas las aplicaciones que utilicen esta clave ya no podrán "
+"utilizar su API."
+
+#: templates/admin/partials/settings-feedbacks.php:94
+msgid ""
+"Are you sure you want to delete this feedback. This action could not be "
+"undone!"
+msgstr ""
+"¿Estás seguro de que quieres borrar este comentario? Esta acción no se puede "
+"deshacer"
+
+#: templates/admin/partials/settings-leads.php:249
+msgid ""
+"Are you sure you want to delete this lead. This action could not be undone!"
+msgstr ""
+"¿Está seguro de que desea eliminar este cliente potencial? Esta acción no se "
+"puede deshacer"
+
+#: templates/admin/partials/settings-leads.php:62
+msgid ""
+"Are you sure? Email will be sent only for those leads who was not invited "
+"previously. This action could not be undone!"
+msgstr ""
+"¿Está seguro? Sólo se enviará un correo electrónico a los clientes "
+"potenciales que no hayan sido invitados previamente. Esta acción no se puede "
+"deshacer"
+
+#: templates/admin/partials/settings-general.php:177
+msgid "Assign"
+msgstr "Asignar"
+
+#: templates/admin/partials/settings-leads.php:193
+msgid "at"
+msgstr "en"
+
+#: templates/admin/partials/settings-general.php:418
+msgid "Authorization"
+msgstr "Autorización"
+
+#: includes/functions.php:204
+msgid "Available only in pro version!"
+msgstr "Disponible sólo en la versión Pro"
+
+#: includes/functions.php:222
+msgid "Available placeholders"
+msgstr "Marcadores de posición disponibles"
+
+#: includes/RRTNGG_Admin.php:39
+msgid "Average Rating"
+msgstr "Valoración media"
+
+#: templates/funnel/default/negative_answer.php:20
+msgid ""
+"Because only those who accept criticism will improve and those who pass on "
+"positive things will continue."
+msgstr ""
+"Porque sólo los que aceptan las críticas mejorarán y los que transmiten "
+"cosas positivas seguirán adelante."
+
+#: templates/funnel/default/positive_answer.php:22
+msgid ""
+"because we want an honest and open review to present our company to the "
+"outside world."
+msgstr ""
+"porque queremos una crítica honesta y abierta para presentar nuestra empresa "
+"al mundo exterior."
+
+#: includes/RRTNGG_Funnel_CPT.php:282
+msgid "Below Button Text"
+msgstr "Debajo del texto del botón"
+
+#: templates/funnel/default/positive_answer.php:20
+msgid ""
+"Briefly on our own behalf: A review is very important for us and our future "
+"customers,"
+msgstr ""
+"Brevemente en nuestro propio nombre: Una crítica es muy importante para "
+"nosotros y para nuestros futuros clientes,"
+
+#: includes/RRTNGG_Funnel_CPT.php:259 includes/RRTNGG_Funnel_CPT.php:495
+msgid "Button Color"
+msgstr "Color de los botones"
+
+#: includes/RRTNGG_Funnel_CPT.php:267
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: includes/RRTNGG_Funnel_CPT.php:274
+msgid "Button Text Color"
+msgstr "Color del texto del botón"
+
+#: templates/funnel/partials/preview_notice.php:25
+msgid "Buttons, with links to rating platforms, will not work!"
+msgstr "Los botones con enlaces a plataformas de clasificación no funcionarán"
+
+#: includes/RRTNGG_Funnel_CPT.php:544
+msgid "By enableing will show the site footer."
+msgstr "Al habilitar mostrará el pie de página del sitio."
+
+#: includes/RRTNGG_Funnel_CPT.php:539
+msgid "By Enableing Will show the site header"
+msgstr "Activando Mostrará la cabecera del sitio"
+
+#: includes/RRTNGG_Funnel_CPT.php:763
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: templates/admin/partials/settings-general.php:241
+msgid "Cancel import"
+msgstr "Cancelar importación"
+
+#: includes/RRTNGG_Admin.php:191
+msgid "Changelog"
+msgstr "Registro de cambios"
+
+#: includes/RRTNGG_Ajax.php:141 includes/RRTNGG_Ajax.php:172
+#: includes/RRTNGG_Ajax.php:190 includes/RRTNGG_Ajax.php:216
+#: includes/RRTNGG_Ajax.php:543 includes/RRTNGG_Ajax.php:691
+#: includes/RRTNGG_Ajax.php:875 includes/RRTNGG_Ajax.php:887
+msgid "Cheating, huh!!!"
+msgstr "¡¡Tramposo, eh!!"
+
+#: includes/RRTNGG_Ajax.php:453
+msgid "Cheating, huh!!! Empty Lead Status"
+msgstr "Tramposo, ¡¡¡eh!!! Estado de plomo vacío"
+
+#: includes/RRTNGG_Ajax.php:422
+msgid "Cheating, huh!!! from funner"
+msgstr "Trampas, ¡¡¡eh!!! de funner"
+
+#: includes/RRTNGG_Ajax.php:410
+msgid "Cheating, huh!!! Post ID"
+msgstr "Engañando, ¡¡¡eh!!! Post ID"
+
+#: includes/functions.php:60
+msgid "Check / Uncheck"
+msgstr "Marcar / Desmarcar"
+
+#: templates/emails/default/email_footer.php:6
+msgid "Company Information"
+msgstr "Información sobre la empresa"
+
+#: includes/RRTNGG_Funnel_CPT.php:664
+msgid "Content"
+msgstr "Contenido"
+
+#: templates/admin/partials/settings-settings.php:36
+msgid "Cookies are not nice to use in Europe and maybe soon banned."
+msgstr ""
+"En Europa no es agradable utilizar cookies y puede que pronto se prohíban."
+
+#: includes/RRTNGG_Funnel_CPT.php:600
+msgid ""
+"Copyright © {current_year} by {current_domain_link}. All Rights Reserved."
+msgstr ""
+"Copyright © {current_year} por {current_domain_link}. Todos los derechos "
+"reservados."
+
+#: includes/RRTNGG_Admin.php:36
+msgid "Count Visitors"
+msgstr "Contar visitantes"
+
+#: includes/RRTNGG_Services_Manager.php:133
+msgid "Country code (required)"
+msgstr "Código de país (obligatorio)"
+
+#: templates/admin/partials/settings-general.php:109
+msgid "CSV bulk import"
+msgstr "Importación masiva de CSV"
+
+#: includes/RRTNGG_Funnel_CPT.php:418 includes/RRTNGG_Funnel_CPT.php:426
+#: includes/RRTNGG_Funnel_CPT.php:460 includes/RRTNGG_Funnel_CPT.php:516
+msgid "Custom content"
+msgstr "Contenido personalizado"
+
+#: includes/RRTNGG_Services_Manager.php:68
+msgid "Custom Link"
+msgstr "Enlace personalizado"
+
+#: includes/RRTNGG_Funnel_CPT.php:568
+msgid "Custom styles"
+msgstr "Estilos personalizados"
+
+#: includes/RRTNGG_Admin.php:41
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/RRTNGG_Funnel_CPT.php:651
+msgid "Delay before sending email (days)"
+msgstr "Plazo de envío del correo electrónico (días)"
+
+#: includes/RRTNGG_Services_Manager.php:128
+msgid "Delay for rating (days)"
+msgstr "Plazo de clasificación (días)"
+
+#: templates/admin/partials/settings-feedbacks.php:95
+#: templates/admin/partials/settings-leads.php:250
+#: templates/admin/partials/settings-general.php:403
+msgid "Delete"
+msgstr "Borrar"
+
+#: includes/RRTNGG_Manager.php:97
+msgid "Did we meet your expectations?"
+msgstr "¿Cumplimos sus expectativas?"
+
+#: includes/RRTNGG_Funnel_CPT.php:728
+msgid "Disable"
+msgstr "Desactivar"
+
+#: includes/RRTNGG_Funnel_CPT.php:438 includes/RRTNGG_Funnel_CPT.php:447
+msgid "Disable Rating buttons"
+msgstr "Desactivar botones de clasificación"
+
+#: includes/RRTNGG_Funnel_CPT.php:248
+msgid "Disabled"
+msgstr "Discapacitados"
+
+#: includes/RRTNGG_Manager.php:112
+msgid "Do not forget to rate us!!!"
+msgstr "¡No olvide puntuarnos!"
+
+#: includes/RRTNGG_Services_Manager.php:9
+#, php-format
+msgid "Do not have TrustedShops account? You can %1$sget one here%2$s!"
+msgstr "¿No tiene cuenta en TrustedShops? ¡Puede %1$sconseguir una aquí%2$s!"
+
+#: includes/RRTNGG_Leads_Model.php:186
+#: templates/admin/partials/settings-general.php:497
+#: templates/admin/partials/settings-general.php:510
+msgid "Doe"
+msgstr "Doe"
+
+#: templates/admin/partials/settings-general.php:249
+msgid "Download Sample CSV File"
+msgstr "Descargar ejemplo de archivo CSV"
+
+#: includes/RRTNGG_Funnel_CPT.php:27
+msgid "Edit Rating Funnel"
+msgstr "Editar el embudo de valoración"
+
+#: includes/RRTNGG_Email.php:84
+#: templates/admin/partials/settings-feedbacks.php:19
+#: templates/admin/partials/settings-feedbacks.php:116
+#: templates/admin/partials/settings-leads.php:43
+#: templates/admin/partials/settings-leads.php:271
+#: templates/admin/partials/settings-general.php:22
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: includes/RRTNGG_Ajax.php:227
+msgid "Email could not be sent"
+msgstr "No se ha podido enviar el correo electrónico"
+
+#: includes/RRTNGG_Ajax.php:595
+msgid "Email field is required"
+msgstr "El campo Email es obligatorio"
+
+#: includes/RRTNGG_Ajax.php:234
+msgid "Email sent"
+msgstr "Correo electrónico enviado"
+
+#: includes/functions.php:216
+msgid "Email templates settings"
+msgstr "Configuración de plantillas de correo electrónico"
+
+#: includes/RRTNGG_Ajax.php:262
+msgid "Email will be sent in background"
+msgstr "El correo electrónico se enviará en segundo plano"
+
+#: includes/RRTNGG_Funnel_CPT.php:411
+msgid "Empty Star Color"
+msgstr "Estrella vacía Color"
+
+#: includes/RRTNGG_Funnel_CPT.php:644 includes/RRTNGG_Funnel_CPT.php:724
+msgid "Enable"
+msgstr "Activar"
+
+#. %s is a placeholder for the external link
+#: includes/RRTNGG_Funnel_CPT.php:244
+msgid "Enable / Disable"
+msgstr "Activar / Desactivar"
+
+#: includes/RRTNGG_Funnel_CPT.php:486
+msgid "Enable Email Field"
+msgstr "Habilitar campo de correo electrónico"
+
+#: includes/RRTNGG_Funnel_CPT.php:476
+msgid "Enable First Name Field"
+msgstr "Activar el campo Nombre"
+
+#: includes/RRTNGG_Funnel_CPT.php:481
+msgid "Enable Last Name Field"
+msgstr "Activar campo Apellidos"
+
+#. %s is a placeholder for the external link
+#: includes/RRTNGG_Funnel_CPT.php:529
+#, php-format
+msgid "Enable the public feedback <a href=\"%s\" target=\"_blank\">New ⓘ</a>"
+msgstr ""
+"Habilitar la opinión pública <a href=\"%s\" target=\"_blank\">Nuevo ⓘ</a>"
+
+#: includes/RRTNGG_Funnel_CPT.php:247
+msgid "Enabled"
+msgstr "Activado"
+
+#: templates/admin/partials/settings-general.php:433
+msgid "Endpoint URL"
+msgstr "URL del punto final"
+
+#: includes/RRTNGG_Ajax.php:111 includes/RRTNGG_Ajax.php:141
+#: includes/RRTNGG_Ajax.php:172 includes/RRTNGG_Ajax.php:190
+#: includes/RRTNGG_Ajax.php:216 includes/RRTNGG_Ajax.php:227
+#: includes/RRTNGG_Ajax.php:247 includes/RRTNGG_Ajax.php:410
+#: includes/RRTNGG_Ajax.php:422 includes/RRTNGG_Ajax.php:453
+#: includes/RRTNGG_Ajax.php:543 includes/RRTNGG_Ajax.php:595
+#: includes/RRTNGG_Ajax.php:611 includes/RRTNGG_Ajax.php:623
+#: includes/RRTNGG_Ajax.php:691 includes/RRTNGG_Ajax.php:701
+#: includes/RRTNGG_Ajax.php:717 includes/RRTNGG_Ajax.php:757
+#: includes/RRTNGG_Ajax.php:852 includes/RRTNGG_Ajax.php:861
+#: includes/RRTNGG_Ajax.php:875 includes/RRTNGG_Ajax.php:887
+#: includes/RRTNGG_Ajax.php:904
+msgid "Error"
+msgstr "Error"
+
+#: includes/RRTNGG_Cron.php:31
+msgid "Every 5 minutes"
+msgstr "Cada 5 minutos"
+
+#: templates/admin/partials/settings-general.php:492
+msgid "F.e."
+msgstr "F.e."
+
+#: includes/functions.php:54
+msgid "Face 1"
+msgstr "Cara 1"
+
+#: includes/functions.php:55
+msgid "Face 2"
+msgstr "Cara 2"
+
+#: includes/functions.php:56
+msgid "Face 3"
+msgstr "Cara 3"
+
+#: includes/RRTNGG_Funnel_CPT.php:468
+msgid "Feedback admin email"
+msgstr "Feedback admin email"
+
+#: includes/RRTNGG_Funnel_CPT.php:472
+msgid "Feedback admin email subject"
+msgstr "Asunto del correo electrónico del administrador de comentarios"
+
+#: includes/RRTNGG_Ajax.php:200
+msgid "Feedback deleted"
+msgstr "Comentarios eliminados"
+
+#: includes/RRTNGG_Email.php:65
+#, php-format
+msgid "Feedback from funnel: %s"
+msgstr "Respuesta del embudo: %s"
+
+#: templates/funnel/default/feedback_page.php:12
+msgid "Feedback is the best thing that can happen to us!"
+msgstr "Los comentarios son lo mejor que nos puede pasar"
+
+#: includes/RRTNGG_Funnel_CPT.php:160
+msgid "Feedback Page"
+msgstr "Página de comentarios"
+
+#: includes/RRTNGG_Admin.php:265
+msgid "Feedbacks"
+msgstr "Comentarios"
+
+#: includes/RRTNGG_Ajax.php:198
+msgid "Feedbacks deleted"
+msgstr "Comentarios eliminados"
+
+#: templates/admin/partials/settings-general.php:179
+msgid "field"
+msgstr "campo"
+
+#: templates/admin/partials/settings-general.php:131
+msgid "File for import"
+msgstr "Fichero para importar"
+
+#: includes/RRTNGG_Funnel_CPT.php:404
+msgid "Filled Star Color"
+msgstr "Color de la estrella rellena"
+
+#: includes/RRTNGG_Funnel_CPT.php:42
+msgid "Filter Rating Funnels list"
+msgstr "Filtrar lista de embudos de valoración"
+
+#: includes/functions.php:15
+#, php-format
+msgid "Find your Place ID %1$shere%2$s"
+msgstr "Encuentre su identificación de lugar %1$shere%2$s"
+
+#: includes/RRTNGG_Manager.php:96
+msgid "First Invitation Email"
+msgstr "Primer correo electrónico de invitación"
+
+#: includes/RRTNGG_Email.php:89
+#: templates/admin/partials/settings-general.php:34
+msgid "First Name"
+msgstr "Nombre"
+
+#: templates/emails/default/invitation_reminder.php:10
+msgid ""
+"first of all, we would like to thank you again for choosing our "
+"service/product."
+msgstr ""
+"en primer lugar, queremos agradecerle de nuevo que haya elegido nuestro "
+"servicio/producto."
+
+#: includes/RRTNGG_Funnel_CPT.php:598
+msgid "Footer content"
+msgstr "Contenido del pie de página"
+
+#: templates/admin/partials/settings-general.php:503
+msgid "Form fields"
+msgstr "Campos de formulario"
+
+#: includes/RRTNGG_Funnel_CPT.php:8 templates/admin/settings.php:10
+msgid "Free"
+msgstr "Gratis"
+
+#: templates/admin/partials/settings-feedbacks.php:21
+#: templates/admin/partials/settings-feedbacks.php:79
+#: templates/admin/partials/settings-feedbacks.php:118
+#: templates/admin/partials/settings-leads.php:46
+#: templates/admin/partials/settings-leads.php:125
+#: templates/admin/partials/settings-leads.php:274
+#: templates/admin/partials/settings-general.php:16
+msgid "Funnel"
+msgstr "Embudo"
+
+#: includes/RRTNGG_Funnel_CPT.php:196
+#, php-format
+msgid ""
+"Funnel created in <strong> %s language </strong>. Funnel frontend language "
+"stays in its language when site or user language is changed. To change the "
+"funnel language, switch to the language you like in <a href=\"2%s\" "
+"target=\"_blank\">current user</a> or <a href=\"3%s\" target=\"_blank\">"
+"general settings</a> and create a new funnel."
+msgstr ""
+"Embudo creado en <strong> %s idioma </strong>. El idioma del frontend del "
+"embudo permanece en su idioma cuando se cambia el idioma del sitio o del "
+"usuario. Para cambiar el idioma del embudo, cambie al idioma que desee en <a "
+"href=\"2%s\" target=\"_blank\">usuario actual</a> o <a href=\"3%s\" "
+"target=\"_blank\">configuración general</a> y cree un nuevo embudo."
+
+#: templates/admin/partials/settings-feedbacks.php:43
+#: templates/admin/partials/settings-leads.php:100
+msgid "Funnel deleted or not published"
+msgstr "Embudo eliminado o no publicado"
+
+#: includes/RRTNGG_Funnel_CPT.php:170
+msgid "Funnel Emails"
+msgstr "Emails embudo"
+
+#: includes/RRTNGG_Core.php:195
+msgid "Funnel ID"
+msgstr "Identificación del embudo"
+
+#: templates/admin/partials/settings-general.php:451
+msgid "Funnel ID which this lead would be connected"
+msgstr "ID del embudo al que se conectará este cliente potencial"
+
+#: templates/funnel/inactive.php:20
+msgid "Funnel is inactive, please contact site owner/support."
+msgstr ""
+"El embudo está inactivo, póngase en contacto con el propietario del "
+"sitio/soporte."
+
+#: includes/RRTNGG_Funnel_CPT.php:34
+msgid "Funnel Logo"
+msgstr "Logotipo del embudo"
+
+#: templates/admin/partials/settings-feedbacks.php:86
+msgid "Funnel not available"
+msgstr "Embudo no disponible"
+
+#: includes/RRTNGG_Manager.php:65
+msgid "Funnel Page Visited"
+msgstr "Página del embudo visitada"
+
+#: includes/RRTNGG_Funnel_CPT.php:736
+msgid "Funnel Status:"
+msgstr "Estado del embudo:"
+
+#: includes/RRTNGG_Manager.php:198 includes/RRTNGG_Manager.php:202
+msgid "Funnel URL with lead id in query parameter"
+msgstr ""
+"URL del embudo con identificador de cliente potencial en el parámetro de "
+"consulta"
+
+#: includes/RRTNGG_Rest.php:104
+msgid "Funnel was not found"
+msgstr "No se ha encontrado el embudo"
+
+#: templates/admin/partials/settings-settings.php:16
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: templates/admin/partials/settings-general.php:373
+msgid "Generate API Key"
+msgstr "Generar clave API"
+
+#. Description of the plugin
+msgid ""
+"Get more and only top Google reviews from your customers. Ensure that "
+"critical voices do not share their feedback publicly. Other platforms "
+"supported."
+msgstr ""
+"Obtenga más y sólo las mejores opiniones de Google de sus clientes. "
+"Asegúrate de que las voces críticas no compartan sus opiniones públicamente. "
+"Otras plataformas compatibles."
+
+#: includes/RRTNGG_Funnel_CPT.php:380 includes/RRTNGG_Funnel_CPT.php:388
+msgid "Good review"
+msgstr "Buena revisión"
+
+#: includes/RRTNGG_Services_Manager.php:19
+msgid "Google MyBusiness"
+msgstr "Google MyBusiness"
+
+#: includes/RRTNGG_Services_Manager.php:117
+msgid "Google Review Survey"
+msgstr "Encuesta de opinión de Google"
+
+#: includes/RRTNGG_Services_Manager.php:26
+msgid "Google-Account is needed"
+msgstr "Se necesita una cuenta de Google"
+
+#: templates/admin/partials/settings-general.php:460
+msgid "header not set up"
+msgstr "cabecera no configurada"
+
+#: includes/functions.php:57
+msgid "Heart 1"
+msgstr "Corazón 1"
+
+#: includes/functions.php:58
+msgid "Heart 2"
+msgstr "Corazón 2"
+
+#: templates/emails/default/invitation_reminder.php:6
+#: templates/emails/default/invitation.php:6
+msgid "Hello {lead_title} {lead_firstname},"
+msgstr "Hola {lead_title} {lead_firstname},"
+
+#: templates/emails/default/positive_rating_reminder.php:6
+#: templates/emails/default/negative_feedback_reminder.php:6
+msgid "Hello {lead_title} {lead_lastname},"
+msgstr "Hola {lead_title} {lead_lastname},"
+
+#: templates/emails/default/positive_rating_reminder.php:34
+msgid "Here are some topic ideas for your review:"
+msgstr "He aquí algunas ideas de temas para su revisión:"
+
+#: includes/RRTNGG_Funnel_CPT.php:502
+msgid "Hover Color"
+msgstr "Color Hover"
+
+#: templates/funnel/default/rating_page.php:16
+msgid "How satisfied are you with our service?"
+msgstr "¿Está satisfecho con nuestro servicio?"
+
+#: templates/admin/partials/settings-general.php:415
+msgid "How to use REST API."
+msgstr "Cómo utilizar la API REST."
+
+#: includes/RRTNGG_Services_Manager.php:86
+msgid "https://facebook.com/YourPageName/reviews/"
+msgstr "https://facebook.com/YourPageName/reviews/"
+
+#. Author URI of the plugin
+msgid "https://saleswonder.biz/"
+msgstr "https://saleswonder.biz/"
+
+#: templates/emails/default/positive_rating_reminder.php:26
+msgid ""
+"If you do not have a Google account, you are also welcome to review us on "
+"Facebook."
+msgstr ""
+"Si no tiene una cuenta de Google, también puede reseñarnos en Facebook."
+
+#: templates/admin/partials/settings-general.php:472
+msgid ""
+"If you just want to add this lead and not send any email invitaion, just add "
+"this parameter with value 1"
+msgstr ""
+"Si sólo desea añadir este lead y no enviar ninguna invitación por correo "
+"electrónico, sólo tiene que añadir este parámetro con el valor 1"
+
+#. %s: <a> tag
+#: templates/funnel/partials/preview_notice.php:33
+#, php-format
+msgid ""
+"If you want to fully test your current funnel and see if your buttons are "
+"working - visit %1$ssettings page%2$s and add a single lead. You can delete "
+"it after testing."
+msgstr ""
+"Si desea probar completamente su embudo actual y ver si sus botones están "
+"funcionando - visite %1$ssettings page%2$s y añada un solo lead. Puede "
+"eliminarlo después de la prueba."
+
+#: templates/admin/partials/settings-general.php:425
+msgid "If your service do not allow to set up custom headers use"
+msgstr "Si su servicio no permite configurar cabeceras personalizadas utilice"
+
+#: includes/RRTNGG_Admin.php:259
+msgid "Import"
+msgstr "Importar"
+
+#: includes/RRTNGG_Ajax.php:532
+msgid "Import canceled"
+msgstr "Importación cancelada"
+
+#: templates/admin/partials/settings-general.php:223
+msgid "Import Leads"
+msgstr "Importar clientes potenciales"
+
+#: templates/admin/partials/settings-general.php:429
+msgid "Import leads"
+msgstr "Importar clientes potenciales"
+
+#: templates/admin/partials/settings-general.php:227
+msgid "Import Leads & send Invite"
+msgstr "Importar clientes potenciales y enviar invitaciones"
+
+#: includes/RRTNGG_Ajax.php:845
+msgid "Import started in Background"
+msgstr "Importación iniciada en segundo plano"
+
+#: includes/RRTNGG_Funnel_CPT.php:373
+msgid "In free version it would be 4 & 5 stars."
+msgstr "En versión gratuita sería de 4 y 5 estrellas."
+
+#: templates/emails/default/invitation_reminder.php:14
+msgid ""
+"In order to improve, we need your help. Please give us a short feedback on "
+"how we can make our service/product even more customer-friendly."
+msgstr ""
+"Para mejorar, necesitamos su ayuda. Díganos brevemente cómo podemos hacer "
+"que nuestro servicio/producto sea aún más fácil de usar."
+
+#: templates/funnel/partials/preview_notice.php:21
+msgid ""
+"In preview mode you can ONLY check how your funnel looks like. No real data "
+"will be updated and no email will be sent."
+msgstr ""
+"En el modo de vista previa SÓLO puede comprobar el aspecto de su embudo. No "
+"se actualizará ningún dato real ni se enviará ningún correo electrónico."
+
+#: templates/funnel/default/feedback_page.php:20
+msgid ""
+"In summary: Feedback is very important for us and our future clients. "
+"Because we want problems and comments to change what we do in the future and "
+"make us better."
+msgstr ""
+"En resumen: Los comentarios son muy importantes para nosotros y para "
+"nuestros futuros clientes. Porque queremos que los problemas y los "
+"comentarios cambien lo que hacemos en el futuro y nos hagan mejores."
+
+#: includes/RRTNGG_Core.php:180 includes/RRTNGG_Funnel_CPT.php:726
+msgid "Inactive"
+msgstr "Inactivo"
+
+#: templates/admin/partials/settings-leads.php:127
+msgid "inactive"
+msgstr "inactivo"
+
+#: includes/RRTNGG_Funnel_CPT.php:38
+msgid "Insert into Rating Funnel"
+msgstr "Insertar en el embudo de calificación"
+
+#: includes/RRTNGG_Manager.php:103
+msgid "Invitation Reminder Email"
+msgstr "Invitación por correo electrónico"
+
+#: includes/RRTNGG_Manager.php:59
+msgid "Invite Sent"
+msgstr "Invitación enviada"
+
+#: includes/RRTNGG_Ajax.php:332
+msgid "is required"
+msgstr "es necesario"
+
+#: templates/admin/partials/settings-settings.php:30
+msgid "Issues and why not enabled by default:"
+msgstr "Problemas y por qué no se activa por defecto:"
+
+#: templates/emails/default/invitation.php:18
+msgid ""
+"It is extremely important to us that we can provide you with the best "
+"service possible. Therefore, we are highly interested in your feedback."
+msgstr ""
+"Para nosotros es muy importante poder ofrecerle el mejor servicio posible. "
+"Por ello, nos interesan mucho sus comentarios."
+
+#: includes/RRTNGG_Leads_Model.php:185
+#: templates/admin/partials/settings-general.php:497
+#: templates/admin/partials/settings-general.php:509
+msgid "John"
+msgstr "John"
+
+#: includes/RRTNGG_Manager.php:207
+msgid "Just current year"
+msgstr "Sólo año en curso"
+
+#: includes/RRTNGG_Manager.php:53
+msgid "Just Imported"
+msgstr "Sólo importado"
+
+#: includes/RRTNGG_Ajax.php:126
+msgid "Key created"
+msgstr "Clave creada"
+
+#: includes/RRTNGG_Ajax.php:157
+msgid "Key deleted"
+msgstr "Llave borrada"
+
+#. %s is a placeholder for the external link
+#: includes/RRTNGG_Funnel_CPT.php:194
+msgid "Language"
+msgstr "Idioma"
+
+#: templates/admin/partials/settings-general.php:41
+msgid "Last  Name"
+msgstr "Apellido"
+
+#: includes/RRTNGG_Email.php:95
+msgid "Last Name"
+msgstr "Apellido"
+
+#: includes/RRTNGG_Ajax.php:670 includes/RRTNGG_Ajax.php:675
+msgid "Lead added"
+msgstr "Plomo añadido"
+
+#: includes/RRTNGG_Ajax.php:728
+msgid "Lead deleted"
+msgstr "Plomo borrado"
+
+#: includes/RRTNGG_Manager.php:174
+msgid "Lead email"
+msgstr "Correo electrónico principal"
+
+#: templates/admin/partials/settings-general.php:455
+msgid "Lead email address"
+msgstr "Dirección de correo electrónico principal"
+
+#: includes/RRTNGG_Manager.php:182
+#: templates/admin/partials/settings-general.php:480
+msgid "Lead first name"
+msgstr "Nombre principal"
+
+#: includes/RRTNGG_Manager.php:190
+msgid "Lead full name"
+msgstr "Nombre completo"
+
+#: includes/RRTNGG_Manager.php:186
+#: templates/admin/partials/settings-general.php:484
+msgid "Lead last name"
+msgstr "Apellido principal"
+
+#: includes/RRTNGG_Manager.php:194
+msgid "Lead order ID"
+msgstr "ID de la orden de compra"
+
+#: includes/RRTNGG_Manager.php:178
+msgid "Lead title (f.e. Mr, Mrs etc.)"
+msgstr "Título principal (por ejemplo, Sr., Sra., etc.)"
+
+#: includes/RRTNGG_Admin.php:262
+msgid "Leads"
+msgstr "Plomos"
+
+#: includes/RRTNGG_Admin.php:172
+msgid "Leads / Feedbacks"
+msgstr "Leads / Feedbacks"
+
+#: includes/RRTNGG_Ajax.php:726
+msgid "Leads deleted"
+msgstr "Contactos eliminados"
+
+#: includes/RRTNGG_Manager.php:111
+msgid "Leave us a review"
+msgstr "Déjanos un comentario"
+
+#: includes/RRTNGG_Funnel_CPT.php:549
+msgid "Left empty or set 0 to make it maximum width 100%"
+msgstr "Se deja vacío o se pone 0 para que tenga una anchura máxima del 100%"
+
+#: includes/RRTNGG_Funnel_CPT.php:555 includes/RRTNGG_Funnel_CPT.php:561
+msgid "Left empty or set 0 to make no padding"
+msgstr "Se deja vacío o se pone 0 para que no haya relleno"
+
+#: includes/RRTNGG_Funnel_CPT.php:326
+msgid "Like / Unlike"
+msgstr "Me gusta / No me gusta"
+
+#: includes/RRTNGG_Funnel_CPT.php:336
+msgid "Like / Unlike Button Style"
+msgstr "Estilo del botón Me gusta / No me gusta"
+
+#: includes/RRTNGG_Funnel_CPT.php:348
+msgid "Like Btn Color"
+msgstr "Como Btn Color"
+
+#: templates/admin/partials/settings-leads.php:49
+#: templates/admin/partials/settings-leads.php:233
+#: templates/admin/partials/settings-leads.php:277
+msgid "Link"
+msgstr "Enlace"
+
+#: includes/RRTNGG_Manager.php:250
+msgid "Link with text from settings"
+msgstr "Enlace con texto de configuración"
+
+#: includes/RRTNGG_Funnel_CPT.php:547
+msgid "Logo maximum width (px)"
+msgstr "Anchura máxima del logotipo (px)"
+
+#: includes/RRTNGG_Funnel_CPT.php:558
+msgid "Logo padding bottom (px) - only for desktop and tablet screen size"
+msgstr ""
+"Logotipo relleno inferior (px) - sólo para el tamaño de pantalla de "
+"escritorio y tableta"
+
+#: includes/RRTNGG_Funnel_CPT.php:552
+msgid "Logo padding top (px) - only for desktop and tablet screen size"
+msgstr ""
+"Logotipo relleno superior (px) - sólo para el tamaño de pantalla de "
+"escritorio y tableta"
+
+#: includes/RRTNGG_Funnel_CPT.php:531
+msgid "Make it possible to open the funnel link without e-mail invitation"
+msgstr ""
+"Posibilitar la apertura del enlace del embudo sin invitación por correo "
+"electrónico"
+
+#: templates/admin/partials/settings-general.php:261
+#, php-format
+msgid ""
+"Make sure your CSV file UTF-8 encoded, and symbol %1$s,%2$s (coma) used as "
+"field separator."
+msgstr ""
+"Asegúrese de que su archivo CSV está codificado en UTF-8 y de que utiliza el "
+"símbolo %1$s,%2$s (coma) como separador de campos."
+
+#: templates/admin/partials/settings-settings.php:37
+msgid ""
+"Maybe in the future add fingerprint tracking/blocking like WP tracking "
+"plugins do."
+msgstr ""
+"Tal vez en el futuro añadir huella digital de seguimiento / bloqueo como WP "
+"plugins de seguimiento hacer."
+
+#: includes/RRTNGG_Services_Manager.php:123
+msgid "Merchant ID (required)"
+msgstr "ID de comerciante (obligatorio)"
+
+#: includes/RRTNGG_Email.php:100
+#: templates/admin/partials/settings-feedbacks.php:22
+#: templates/admin/partials/settings-feedbacks.php:90
+#: templates/admin/partials/settings-feedbacks.php:119
+msgid "Message"
+msgstr "Mensaje"
+
+#: templates/admin/partials/settings-general.php:440
+#: templates/admin/partials/settings-general.php:495
+#: templates/admin/partials/settings-general.php:502
+msgid "Method"
+msgstr "Método"
+
+#: includes/RRTNGG_Leads_Model.php:184
+msgid "Mr."
+msgstr "Sr."
+
+#: templates/admin/partials/settings-general.php:476
+msgid "Mr., Mrs. Dr etc."
+msgstr "Sr., Sra. Dr. etc."
+
+#: templates/admin/partials/settings-leads.php:242
+msgid "Multiple funnels disabled."
+msgstr "Múltiples embudos desactivados."
+
+#: includes/RRTNGG_Ajax.php:345
+msgid "must be valid email"
+msgstr "debe ser un correo electrónico válido"
+
+#: templates/admin/partials/settings-feedbacks.php:20
+#: templates/admin/partials/settings-feedbacks.php:78
+#: templates/admin/partials/settings-feedbacks.php:117
+#: templates/admin/partials/settings-leads.php:44
+#: templates/admin/partials/settings-leads.php:123
+#: templates/admin/partials/settings-leads.php:272
+msgid "Name"
+msgstr "Nombre"
+
+#: includes/RRTNGG_Funnel_CPT.php:150
+msgid "Negative Answers"
+msgstr "Respuestas negativas"
+
+#: includes/RRTNGG_Manager.php:77
+msgid "Negative Feedback Page Visited"
+msgstr "Página de comentarios negativos visitada"
+
+#: includes/RRTNGG_Manager.php:119
+msgid "Negative Feedback Reminder Email"
+msgstr "Recordatorio de comentarios negativos por correo electrónico"
+
+#: includes/RRTNGG_Manager.php:83
+msgid "Negative Rating Page Visited"
+msgstr "Calificación negativa Página visitada"
+
+#: includes/RRTNGG_Funnel_CPT.php:26
+msgid "New Rating Funnel"
+msgstr "Nuevo embudo de calificación"
+
+#: templates/admin/partials/settings-leads.php:48
+#: templates/admin/partials/settings-leads.php:162
+#: templates/admin/partials/settings-leads.php:276
+msgid "Next Mail"
+msgstr "Próximo correo"
+
+#: includes/RRTNGG_Services_Manager.php:52
+#: includes/RRTNGG_Services_Manager.php:100
+msgid "No account needed"
+msgstr "No se necesita cuenta"
+
+#: includes/RRTNGG_Ajax.php:852
+msgid "No data to import. Upload another csv file"
+msgstr "No hay datos para importar. Cargar otro archivo csv"
+
+#: includes/RRTNGG_Manager.php:127
+msgid "No email will be sent"
+msgstr "No se enviará ningún correo electrónico"
+
+#: includes/RRTNGG_Ajax.php:247
+msgid "No leads to be invited"
+msgstr "No hay pistas para ser invitado"
+
+#: includes/RRTNGG_Funnel_CPT.php:32
+msgid "Not found"
+msgstr "No se ha encontrado"
+
+#: includes/RRTNGG_Funnel_CPT.php:33
+msgid "Not found in Trash"
+msgstr "No se encuentra en la papelera"
+
+#: includes/RRTNGG_Funnel_CPT.php:449
+msgid ""
+"Not recommended if you use this when asking for Google reviews, to comply "
+"with their policy of not selectively asking for reviews only from people "
+"with positive feedback."
+msgstr ""
+"No es recomendable si lo utilizas cuando pides reseñas de Google, para "
+"cumplir con su política de no pedir selectivamente reseñas sólo a personas "
+"con comentarios positivos."
+
+#: templates/emails/default/invitation.php:14
+msgid "Now we would like to know from you: Did we meet your expectations?"
+msgstr "Ahora nos gustaría saber de usted: ¿Hemos cumplido sus expectativas?"
+
+#: includes/RRTNGG_Funnel_CPT.php:759
+msgid "OK"
+msgstr "OK"
+
+#: templates/admin/partials/settings-general.php:461
+msgid "One of generated API keys"
+msgstr "Una de las claves API generadas"
+
+#: includes/RRTNGG_Admin.php:204 includes/RRTNGG_Admin.php:205
+#: includes/RRTNGG_Admin.php:231
+msgid "Opt-in to see account"
+msgstr "Ver cuenta"
+
+#: templates/admin/partials/settings-general.php:466
+msgid "Optional parameters"
+msgstr "Parámetros opcionales"
+
+#: includes/functions.php:171 includes/functions.php:197
+#: templates/admin/partials/settings-general.php:441
+msgid "or"
+msgstr "o"
+
+#: templates/admin/partials/settings-leads.php:45
+#: templates/admin/partials/settings-leads.php:124
+#: templates/admin/partials/settings-leads.php:273
+#: templates/admin/partials/settings-general.php:48
+#: templates/admin/partials/settings-general.php:488
+msgid "Order ID"
+msgstr "Número de pedido"
+
+#: templates/funnel/default/rating_page.php:12
+msgid ""
+"Our aim is to continue to offer a first-class service at the best conditions "
+"and your feedback can help us to continue to do so."
+msgstr ""
+"Nuestro objetivo es seguir ofreciendo un servicio de primera clase en las "
+"mejores condiciones y sus comentarios pueden ayudarnos a seguir haciéndolo."
+
+#: includes/RRTNGG_Funnel_CPT.php:577
+msgid "Page Background Color"
+msgstr "Color de fondo de la página"
+
+#: includes/RRTNGG_Funnel_CPT.php:591
+msgid "Page Link Color"
+msgstr "Color del enlace de página"
+
+#: includes/RRTNGG_Funnel_CPT.php:110
+msgid "Page settings"
+msgstr "Configuración de página"
+
+#: includes/RRTNGG_Funnel_CPT.php:564
+msgid "Page style"
+msgstr "Estilo de página"
+
+#: includes/RRTNGG_Funnel_CPT.php:584
+msgid "Page Text Color"
+msgstr "Color del texto de la página"
+
+#: includes/RRTNGG_Funnel_CPT.php:22
+msgid "Parent Rating Funnel:"
+msgstr "Embudo de valoración de los padres:"
+
+#: includes/RRTNGG_Services_Manager.php:36
+msgid "Place ID (required)"
+msgstr "ID del lugar (obligatorio)"
+
+#: includes/RRTNGG_Notices.php:69
+msgid "plan"
+msgstr "plan"
+
+#: templates/funnel/default/feedback_page.php:16
+msgid "Please leave us information on what was good or not good!"
+msgstr "Por favor, déjenos información sobre lo que estuvo bien o no"
+
+#: templates/emails/default/negative_feedback_reminder.php:14
+msgid ""
+"Please take a minute and give us feedback on how satisfied you are with our "
+"service/product. And of course, we are also happy about any suggestions for "
+"improvement!"
+msgstr ""
+"Tómese un minuto y dénos su opinión sobre su grado de satisfacción con "
+"nuestro servicio/producto. Y, por supuesto, estaremos encantados de recibir "
+"cualquier sugerencia de mejora"
+
+#: includes/RRTNGG_Funnel_CPT.php:140
+msgid "Positive Answers"
+msgstr "Respuestas positivas"
+
+#: templates/funnel/default/positive_answer.php:12
+msgid "Positive feedback is the best thing that can happen to us!"
+msgstr "Los comentarios positivos son lo mejor que nos puede pasar"
+
+#: includes/RRTNGG_Manager.php:71
+msgid "Positive Rating Page Visited"
+msgstr "Valoración positiva Página visitada"
+
+#: includes/RRTNGG_Ajax.php:36 includes/RRTNGG_Ajax.php:55
+msgid "post id count increased"
+msgstr "aumento del número de identificadores de puesto"
+
+#: includes/RRTNGG_Funnel_CPT.php:16
+msgctxt "Post Type General Name"
+msgid "Rating Funnels"
+msgstr "Embudos de valoración"
+
+#: includes/RRTNGG_Funnel_CPT.php:17
+msgctxt "Post Type Singular Name"
+msgid "Rating Funnel"
+msgstr "Embudo de valoración"
+
+#: templates/funnel/partials/preview_notice.php:18
+msgid "Preview only mode"
+msgstr "Modo sólo vista previa"
+
+#: templates/admin/partials/settings-general.php:425
+msgid "query parameter (see description below)"
+msgstr "parámetro de consulta (véase la descripción más abajo)"
+
+#: templates/funnel/partials/rating_view_like_unlike.php:41
+#: templates/funnel/partials/rating_view_stars_rating.php:121
+#: templates/funnel/partials/services/trustedshops.php:20
+#: templates/funnel/partials/services/mybusiness.php:19
+#: templates/funnel/partials/services/custom_link.php:21
+#: templates/funnel/partials/services/custom_link_pro.php:21
+msgid "Rate Us"
+msgstr "Valóranos"
+
+#: includes/RRTNGG_Manager.php:241
+msgid "Rate Us on"
+msgstr "Valóranos en"
+
+#: templates/funnel/partials/forbidden.php:17
+msgid ""
+"Rating could not be taken, limit reached, please contact site owner/support."
+msgstr ""
+"No se ha podido realizar la valoración, se ha alcanzado el límite, póngase "
+"en contacto con el propietario del sitio/soporte."
+
+#: includes/RRTNGG_Funnel_CPT.php:46
+msgid "Rating Funnel"
+msgstr "Embudo de valoración"
+
+#: includes/RRTNGG_Funnel_CPT.php:20
+msgid "Rating Funnel Archives"
+msgstr "Archivos de Rating Funnel"
+
+#: includes/RRTNGG_Funnel_CPT.php:21
+msgid "Rating Funnel Attributes"
+msgstr "Atributos del embudo de calificación"
+
+#: templates/admin/settings.php:18
+msgid "Rating Funnels"
+msgstr "Embudos de valoración"
+
+#: includes/RRTNGG_Funnel_CPT.php:40
+msgid "Rating Funnels list"
+msgstr "Lista de embudos de valoración"
+
+#: includes/RRTNGG_Funnel_CPT.php:41
+msgid "Rating Funnels list navigation"
+msgstr "Navegación por la lista de Rating Funnels"
+
+#: includes/RRTNGG_Funnel_CPT.php:130
+msgid "Rating Page"
+msgstr "Calificación Página"
+
+#: includes/RRTNGG_Funnel_CPT.php:323
+msgid "Rating View"
+msgstr "Clasificación Ver"
+
+#: includes/RRTNGG_Ajax.php:486
+msgid "Ratings Already given you cannot give rating again."
+msgstr "Valoraciones Ya dadas no se pueden volver a dar valoraciones."
+
+#: includes/RRTNGG_Funnel_CPT.php:36
+msgid "Remove funnel logo"
+msgstr "Eliminar el logotipo del embudo"
+
+#: templates/admin/partials/settings-general.php:503
+msgid "request body"
+msgstr "cuerpo de la solicitud"
+
+#: includes/RRTNGG_Funnel_CPT.php:318
+msgid "Require rating confirmation"
+msgstr "Solicitar confirmación de calificación"
+
+#: templates/admin/partials/settings-general.php:458
+msgid "required only if"
+msgstr "sólo es necesario si"
+
+#: templates/admin/partials/settings-general.php:445
+msgid "Required parameters"
+msgstr "Parámetros requeridos"
+
+#: templates/admin/partials/settings-general.php:342
+msgid "REST API integration"
+msgstr "Integración de la API REST"
+
+#: templates/admin/partials/settings-general.php:521
+msgid "REST API integration disabled."
+msgstr "Integración REST API desactivada."
+
+#: templates/admin/partials/settings-settings.php:21
+msgid "Restrict Rating on the base of IP:"
+msgstr "Restringir la clasificación en función de la PI:"
+
+#: includes/RRTNGG_Admin.php:190
+msgid "RRatingg Changelog"
+msgstr "Cambios en RRatingg"
+
+#: includes/RRTNGG_Admin.php:180
+msgid "RRatingg Solution & Support"
+msgstr "Solución y asistencia RRatingg"
+
+#. Author of the plugin
+msgid "Saleswonder.biz"
+msgstr "Saleswonder.biz"
+
+#: templates/admin/partials/settings-leads.php:184
+msgid "Scheduled"
+msgstr "Programado"
+
+#: includes/RRTNGG_Funnel_CPT.php:31
+msgid "Search Rating Funnel"
+msgstr "Embudo de búsqueda"
+
+#: templates/admin/partials/settings-general.php:235
+msgid "Select / Upload CSV file"
+msgstr "Seleccionar / Cargar archivo CSV"
+
+#: includes/RRTNGG_Ajax.php:701 includes/RRTNGG_Ajax.php:717
+msgid "Select at least one lead to delete"
+msgstr "Seleccione al menos una pista para eliminar"
+
+#: templates/admin/partials/settings-general.php:187
+msgid "Select CSV field"
+msgstr "Seleccionar campo CSV"
+
+#: templates/admin/partials/settings-general.php:149
+msgid "Select Funnel"
+msgstr "Seleccionar embudo"
+
+#: includes/RRTNGG_Ajax.php:904
+msgid "Select funnel"
+msgstr "Seleccionar embudo"
+
+#: templates/funnel/partials/feedback_form.php:71
+msgid "Send feedback"
+msgstr "Enviar comentarios"
+
+#: templates/admin/partials/settings-leads.php:63
+msgid "Send invitation Email"
+msgstr "Enviar invitación Correo electrónico"
+
+#: templates/admin/partials/settings-leads.php:211
+#: templates/admin/partials/settings-leads.php:218
+msgid "Send now"
+msgstr "Enviar ahora"
+
+#: templates/admin/partials/settings-leads.php:182
+msgid "Sending in background"
+msgstr "Envío en segundo plano"
+
+#: templates/admin/partials/settings-leads.php:186
+msgid "Sent"
+msgstr "Enviado"
+
+#: includes/RRTNGG_Funnel_CPT.php:120
+msgid "Services Integration Settings"
+msgstr "Configuración de la integración de servicios"
+
+#: includes/RRTNGG_Services_Manager.php:85
+#: includes/RRTNGG_Services_Manager.php:110
+msgid "Set custom link (required)"
+msgstr "Establecer enlace personalizado (obligatorio)"
+
+#: includes/RRTNGG_Funnel_CPT.php:35
+msgid "Set funnel logo"
+msgstr "Establecer logotipo de embudo"
+
+#: includes/RRTNGG_Admin.php:268 templates/admin/settings.php:18
+msgid "Settings"
+msgstr "Ajustes"
+
+#: templates/admin/partials/settings-general.php:360
+msgid "Short description"
+msgstr "Descripción breve"
+
+#: includes/RRTNGG_Funnel_CPT.php:542
+msgid "Show Footer"
+msgstr "Mostrar pie de página"
+
+#: includes/RRTNGG_Funnel_CPT.php:537
+msgid "Show Header"
+msgstr "Mostrar cabecera"
+
+#: templates/admin/partials/settings-feedbacks.php:75
+#: templates/admin/partials/settings-leads.php:120
+msgid "Show more details"
+msgstr "Mostrar más detalles"
+
+#: templates/emails/default/negative_feedback_reminder.php:30
+msgid "Signature"
+msgstr "Firma"
+
+#: templates/admin/partials/settings-settings.php:34
+msgid "So we did not found a working solution."
+msgstr "Así que no hemos encontrado una solución que funcione."
+
+#: templates/emails/default/positive_rating_reminder.php:40
+msgid "special moments and incidents and how we have helped you"
+msgstr "momentos e incidentes especiales y cómo le hemos ayudado"
+
+#: includes/RRTNGG_Admin.php:38
+msgid "Specific Ratings"
+msgstr "Clasificaciones específicas"
+
+#: includes/RRTNGG_Funnel_CPT.php:327
+msgid "Stars Rating"
+msgstr "Clasificación por estrellas"
+
+#: templates/admin/partials/settings-leads.php:47
+#: templates/admin/partials/settings-leads.php:132
+#: templates/admin/partials/settings-leads.php:241
+#: templates/admin/partials/settings-leads.php:275
+msgid "Status"
+msgstr "Estado"
+
+#: includes/RRTNGG_Funnel_CPT.php:658
+msgid "Subject"
+msgstr "Asunto"
+
+#: templates/emails/default/negative_feedback_reminder.php:18
+msgid "Submit feedback now"
+msgstr "Envíe sus comentarios ahora"
+
+#: includes/RRTNGG_Ajax.php:103 includes/RRTNGG_Ajax.php:126
+#: includes/RRTNGG_Ajax.php:157 includes/RRTNGG_Ajax.php:205
+#: includes/RRTNGG_Ajax.php:234 includes/RRTNGG_Ajax.php:262
+#: includes/RRTNGG_Ajax.php:532 includes/RRTNGG_Ajax.php:571
+#: includes/RRTNGG_Ajax.php:670 includes/RRTNGG_Ajax.php:675
+#: includes/RRTNGG_Ajax.php:733 includes/RRTNGG_Ajax.php:845
+msgid "Success"
+msgstr "Éxito"
+
+#: includes/RRTNGG_Admin.php:181
+msgid "Support"
+msgstr "Ayuda"
+
+#: templates/admin/partials/settings-leads.php:235
+msgid "Test rating funnel"
+msgstr "Embudo de clasificación de pruebas"
+
+#: includes/RRTNGG_Funnel_CPT.php:509
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: templates/funnel/default/negative_answer.php:12
+msgid "Thank you for your feedback"
+msgstr "Gracias por sus comentarios"
+
+#: templates/emails/default/positive_rating_reminder.php:44
+msgid "Thank you in advance for your support!"
+msgstr "Gracias de antemano por su apoyo"
+
+#: templates/emails/default/invitation_reminder.php:22
+msgid "Thank you in advance for your time and assistance!"
+msgstr "Gracias de antemano por su tiempo y su ayuda"
+
+#: templates/emails/default/invitation.php:30
+msgid "Thank you very much for your assistance!"
+msgstr "Muchas gracias por su ayuda"
+
+#: templates/emails/default/positive_rating_reminder.php:39
+msgid "the quality of our products / services"
+msgstr "la calidad de nuestros productos y servicios"
+
+#: includes/functions.php:39
+#, php-format
+msgid ""
+"The two-letter country code identifies where the customer's order will be "
+"delivered. This value must be in %s format. Do not use “ZZ” for this field. "
+"For example, \"US\"."
+msgstr ""
+"El código de país de dos letras identifica dónde se entregará el pedido del "
+"cliente. Este valor debe tener el formato %s. No utilice \"ZZ\" para este "
+"campo. Por ejemplo, \"US\"."
+
+#: includes/RRTNGG_Funnel_CPT.php:567
+msgid "Theme inherited"
+msgstr "Tema heredado"
+
+#: templates/funnel/default/positive_answer.php:16
+msgid "Therefore, we would be pleased to receive a review!"
+msgstr "Por lo tanto, ¡estaríamos encantados de recibir una reseña!"
+
+#: includes/RRTNGG_Ajax.php:623 includes/RRTNGG_Rest.php:116
+msgid "This email already exists for selected funnel"
+msgstr "Este correo electrónico ya existe para el embudo seleccionado"
+
+#: includes/functions.php:52
+msgid "Thumbs up/down 1"
+msgstr "Pulgares arriba/abajo 1"
+
+#: includes/functions.php:53
+msgid "Thumbs up/down 2"
+msgstr "Pulgares arriba/abajo 2"
+
+#: includes/RRTNGG_Admin.php:35
+#: templates/admin/partials/settings-general.php:28
+msgid "Title"
+msgstr "Título"
+
+#: templates/emails/default/invitation_reminder.php:18
+#: templates/emails/default/invitation.php:22
+msgid "To Feedback"
+msgstr "Comentarios"
+
+#: templates/admin/partials/settings-leads.php:221
+msgid "To send this email, you need to enable it in funnel settings."
+msgstr ""
+"Para enviar este correo electrónico, debe activarlo en la configuración del "
+"embudo."
+
+#. %s: <button> tag
+#: templates/funnel/partials/preview_notice.php:44
+#, php-format
+msgid "To start preview from beginning just %1$sReload page%2$s"
+msgstr ""
+"Para iniciar la vista previa desde el principio sólo %1$sRecargar página%2$s"
+
+#: includes/RRTNGG_Admin.php:37
+msgid "Total Rating"
+msgstr "Calificación total"
+
+#: includes/RRTNGG_Admin.php:40
+msgid "Total Redirect Count"
+msgstr "Recuento total de redirecciones"
+
+#: includes/RRTNGG_Funnel_CPT.php:10 templates/admin/settings.php:12
+msgid "Trial"
+msgstr "Ensayo"
+
+#: includes/RRTNGG_Services_Manager.php:43
+msgid "Trustedshops"
+msgstr "Trustedshops"
+
+#: includes/RRTNGG_Services_Manager.php:62
+msgid "TrustedShops Id"
+msgstr "Id. de TrustedShops"
+
+#: includes/RRTNGG_Ajax.php:134 includes/RRTNGG_Ajax.php:165
+#: includes/RRTNGG_Ajax.php:526 includes/RRTNGG_Ajax.php:580
+#: includes/RRTNGG_Ajax.php:685
+msgid "Unauthorized"
+msgstr "Sin autorización"
+
+#: includes/RRTNGG_Funnel_CPT.php:355
+msgid "Unlike Btn Color"
+msgstr "A diferencia de Btn Color"
+
+#: includes/RRTNGG_Funnel_CPT.php:28
+msgid "Update Rating Funnel"
+msgstr "Actualizar el embudo de calificación"
+
+#: includes/RRTNGG_Funnel_CPT.php:39
+msgid "Uploaded to this Rating Funnel"
+msgstr "Subido a este Embudo de Calificación"
+
+#: includes/RRTNGG_Manager.php:246
+msgid "URL Address"
+msgstr "Dirección URL"
+
+#: includes/RRTNGG_Funnel_CPT.php:37
+msgid "Use as funnel logo"
+msgstr "Utilizar como logotipo del embudo"
+
+#: includes/RRTNGG_Ajax.php:39 includes/RRTNGG_Ajax.php:58
+msgid "user already clicked"
+msgstr "el usuario ya ha hecho clic"
+
+#: includes/RRTNGG_Funnel_CPT.php:29
+msgid "View Rating Funnel"
+msgstr "Ver el embudo de valoración"
+
+#: includes/RRTNGG_Funnel_CPT.php:30
+msgid "View Rating Funnels"
+msgstr "Ver embudos de valoración"
+
+#: templates/emails/default/positive_rating_reminder.php:10
+msgid ""
+"We are pleased that we have met your expectations with our service / "
+"products."
+msgstr ""
+"Nos complace haber cumplido sus expectativas con nuestro servicio / "
+"productos."
+
+#: templates/emails/default/invitation.php:10
+msgid "We are very pleased that you have chosen our service / products."
+msgstr ""
+"Estamos muy contentos de que haya elegido nuestro servicio / productos."
+
+#: templates/funnel/default/negative_answer.php:16
+msgid "We deal with praise and criticism in equal measure."
+msgstr "Recibimos elogios y críticas a partes iguales."
+
+#: templates/admin/partials/settings-settings.php:33
+msgid "We tested to use the browser ID but all apple devices offer to hide it."
+msgstr ""
+"Hemos probado a utilizar el ID del navegador, pero todos los dispositivos "
+"apple ofrecen ocultarlo."
+
+#: includes/functions.php:59
+msgid "Weather"
+msgstr "Tiempo"
+
+#: includes/RRTNGG_Manager.php:104
+msgid "Were you satisfied with our service/product?"
+msgstr "¿Ha quedado satisfecho con nuestro servicio/producto?"
+
+#: includes/RRTNGG_Manager.php:120
+msgid "What can we do better next time?"
+msgstr "¿Qué podemos hacer mejor la próxima vez?"
+
+#: templates/admin/partials/settings-settings.php:32
+msgid ""
+"When use VPN and Starlink internet only you can rate only once for the IP, "
+"in the whole network."
+msgstr ""
+"Cuando se utiliza VPN y Starlink Internet sólo puede tasa sólo una vez para "
+"la IP, en toda la red."
+
+#: templates/emails/default/positive_rating_reminder.php:48
+#: templates/emails/default/negative_feedback_reminder.php:26
+#: templates/emails/default/invitation_reminder.php:26
+#: templates/emails/default/invitation.php:34
+msgid "With kind regards"
+msgstr "Saludos cordiales"
+
+#: templates/admin/partials/settings-general.php:421
+msgid "with one of generated API keys"
+msgstr "con una de las claves API generadas"
+
+#: templates/emails/default/invitation.php:26
+msgid ""
+"With your feedback, you will help us to maintain our first-class service and "
+"to eliminate any irregularities."
+msgstr ""
+"Con sus comentarios, nos ayudará a mantener nuestro servicio de primera "
+"clase y a eliminar cualquier irregularidad."
+
+#: includes/RRTNGG_Ajax.php:861
+msgid "Wrong CSV file, please upload another one"
+msgstr "Archivo CSV incorrecto, por favor suba otro"
+
+#: includes/RRTNGG_Ajax.php:611 includes/RRTNGG_Ajax.php:757
+msgid "Wrong funnel selected"
+msgstr "Embudo seleccionado incorrecto"
+
+#: templates/admin/partials/settings-leads.php:137
+msgid "Wrong Lead status"
+msgstr "Estado erróneo del plomo"
+
+#: includes/RRTNGG_Funnel_CPT.php:365
+msgid ""
+"You can choose would it be 4 & 5 stars or only 5 stars to open positive "
+"rating page."
+msgstr ""
+"Puedes elegir entre 4 y 5 estrellas o sólo 5 estrellas para abrir la página "
+"de valoración positiva."
+
+#: includes/functions.php:178
+msgid "You can not send any more invitations!"
+msgstr "No puedes enviar más invitaciones"
+
+#: includes/RRTNGG_Notices.php:61
+#, php-format
+msgid ""
+"You reached limit of %1$s feedbacks per %2$s days available in your %3$s "
+"plan."
+msgstr ""
+"Ha alcanzado el límite de %1$s opiniones por %2$s días disponibles en su "
+"plan %3$s."
+
+#: includes/RRTNGG_Notices.php:50 includes/RRTNGG_Notices.php:56
+#, php-format
+msgid "You still have %1$s out of %2$s feedbacks left in the next %3$s days."
+msgstr "Aún te quedan %1$s de %2$s opiniones en los próximos %3$s días."
+
+#: includes/RRTNGG_Notices.php:52
+#, php-format
+msgid "You still have %1$s out of %2$s feedbacks left in the next %3$s days.."
+msgstr ""
+"Aún te quedan %1$s de %2$s retroalimentaciones en los próximos %3$s días.."
+
+#: includes/RRTNGG_Funnel_Template.php:247
+msgid "Your Email"
+msgstr "Su correo electrónico"
+
+#: templates/emails/default/email_footer.php:11
+msgid "Your email address"
+msgstr "Su dirección de correo electrónico"
+
+#: templates/emails/default/positive_rating_reminder.php:38
+msgid "Your experience with us as a company"
+msgstr "Su experiencia con nosotros como empresa"
+
+#: templates/emails/default/negative_feedback_reminder.php:22
+msgid ""
+"Your feedback is very valuable to us. Thank you very much for your "
+"assistance!"
+msgstr ""
+"Sus comentarios son muy valiosos para nosotros. Muchas gracias por su ayuda"
+
+#: includes/RRTNGG_Funnel_Template.php:215
+msgid "Your First Name"
+msgstr "Su nombre"
+
+#: includes/RRTNGG_Funnel_Template.php:230
+msgid "Your Last Name"
+msgstr "Apellido"
+
+#: includes/functions.php:27
+msgid ""
+"Your Merchant Center ID. You can get this value from the Google Merchant "
+"Center."
+msgstr ""
+"Su ID de Merchant Center. Puede obtener este valor en Google Merchant Center."
+
+#: includes/RRTNGG_Funnel_Template.php:242
+msgid "Your Name"
+msgstr "Su nombre"
+
+#: templates/emails/default/email_footer.php:10
+msgid "Your phone number"
+msgstr "Su número de teléfono"
+
+#: templates/emails/default/positive_rating_reminder.php:14
+msgid ""
+"Your positive feedback encourages us to further expand our quality standards "
+"in order to continue to offer the best possible service in the future."
+msgstr ""
+"Sus comentarios positivos nos animan a seguir ampliando nuestras normas de "
+"calidad para seguir ofreciendo el mejor servicio posible en el futuro."
+
+#: templates/emails/default/negative_feedback_reminder.php:10
+msgid ""
+"Your satisfaction is very important to us and therefore, we would like to "
+"kindly ask for your help:"
+msgstr ""
+"Su satisfacción es muy importante para nosotros y, por ello, nos gustaría "
+"pedirle amablemente su ayuda:"
+
+#: includes/RRTNGG_Services_Manager.php:111
+msgid "YourTrustPilotInvitationLink"
+msgstr "SuEnlaceDeInvitaciónPilotoDeConfianza"
